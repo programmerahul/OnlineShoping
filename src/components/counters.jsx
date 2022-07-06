@@ -25,7 +25,7 @@ class Counters extends Component {
           </div>
         </div>
         <button onClick={onReset} className="btn btn-primary m-2 inl">
-          Reset
+          Remove All
         </button>
         <NavBar counters={this.props.counters} />
       </div>

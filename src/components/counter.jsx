@@ -41,7 +41,7 @@ class Counter extends Component {
     return str;
   }
   format() {
-    return this.props.counter.value === 0 ? "Zero" : this.props.counter.value;
+    return this.props.counter.value === 0 ? 0 : this.props.counter.value;
   }
 }
 

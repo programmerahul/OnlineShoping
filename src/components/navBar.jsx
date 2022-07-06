@@ -13,7 +13,7 @@ class NavBar extends Component {
         <div className="cent inl">
           <div className="bottomLine">
             <p className="Para">Total Cost : {this.count()} /-</p>
-            <button type="button" class="btn btn-info m-2">
+            <button type="button" className="btn btn-info m-2">
               Buy
             </button>
           </div>
