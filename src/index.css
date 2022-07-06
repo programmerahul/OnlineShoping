@@ -12,3 +12,60 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
 }
+.sizeit {
+  width: 100px;
+  height: 100px;
+}
+.bdr {
+  border: 3px solid gray;
+  border-radius: 10px;
+}
+
+.btn-wid {
+  width: 100px;
+}
+.topMargin {
+  margin: 10px;
+}
+.topPadding {
+  padding-top: 50px;
+}
+.cent {
+  display: flex;
+  justify-content: center;
+}
+.bottomLine {
+  padding: 0 80px 0 80px;
+  margin: 30px;
+  border: 3px solid rgb(49, 129, 227);
+  display: flex;
+  width: 70vw;
+  border-radius: 10px;
+  justify-content: space-between;
+  align-items: center;
+}
+.Para {
+  color: red;
+  font-weight: bold;
+}
+.cart {
+  color: aqua;
+  padding-left: 170px;
+  border-radius: 10px;
+  background-color: gray;
+}
+.fixed {
+  width: 100px;
+}
+.Pricing {
+  display: flex;
+}
+.parag {
+  padding-left: 70px;
+}
+.parag1 {
+  padding-left: 120px;
+}
+.inl {
+  display: inline-block;
+}
